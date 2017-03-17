@@ -1,2 +1,3 @@
+# TOTORO
 # project-spring2017
-Final project template
+This is a project for Totoro group
