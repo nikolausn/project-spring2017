@@ -1,3 +1,3 @@
 # TOTORO
 # project-spring2017
-This is a project for Totoro group
+Data Visualization (LIS590DV) Final Project, by Totoro group
